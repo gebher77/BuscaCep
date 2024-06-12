@@ -5,7 +5,7 @@ Bem-vindo ao **Busca Cep**, uma aplicação simples e eficiente para buscar CEPs
 ### ✨ Funcionalidades
 - 🔍 **Busca de CEP**: Utilize uma API externa para obter informações detalhadas sobre o CEP.
 - 📋 **Menu intuitivo**: Interface de usuário simples para facilitar a navegação e a realização de buscas.
-- 🗂️ **Histórico de buscas**: Geração automática de um arquivo `historico_buscas.json` contendo todas as buscas realizadas durante a sessão.
+- 🗂️ **Histórico de buscas**: Geração automática de um arquivo `enderecos.json` contendo todas as buscas realizadas durante a sessão.
 
 ----------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Welcome to **Busca Cep**, a simple and efficient application for searching ZIP c
 
 - 🔍 **ZIP Code Search**: Use an external API to get detailed information about the ZIP code.
 - 📋 **Intuitive Menu**: Simple user interface for easy navigation and searches.
-- 🗂️ **Search History**: Automatic generation of a `historico_buscas.json` file containing all searches performed during the session.
+- 🗂️ **Search History**: Automatic generation of a `enderecos_buscas.json` file containing all searches performed during the session.
 
 
 ![image](https://github.com/gebher77/BuscaCep/assets/169497254/683e44d0-8ff4-41ca-b485-d08b7f6ab6bd)
