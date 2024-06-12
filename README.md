@@ -12,7 +12,7 @@ Bem-vindo ao **Busca Cep**, uma aplicação simples e eficiente para buscar CEPs
 
 Welcome to **Busca Cep**, a simple and efficient application for searching ZIP codes using an API. With an intuitive menu, the application allows you to perform searches easily and quickly, generating a `.json` file with the history of all searches performed at the end.
 
-## ✨ Features
+### ✨ Features
 
 - 🔍 **ZIP Code Search**: Use an external API to get detailed information about the ZIP code.
 - 📋 **Intuitive Menu**: Simple user interface for easy navigation and searches.
