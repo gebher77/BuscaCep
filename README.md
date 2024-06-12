@@ -19,6 +19,6 @@ Welcome to **Busca Cep**, a simple and efficient application for searching ZIP c
 - 🗂️ **Search History**: Automatic generation of a `historico_buscas.json` file containing all searches performed during the session.
 
 
-![image](https://github.com/gebher77/BuscaCep/assets/169497254/683e44d0-8ff4-41ca-b485-d08b7f6ab6bd)![image](https://github.com/gebher77/BuscaCep/assets/169497254/be161051-ab52-4cf4-835a-184b0fc059dc)
-
+![image](https://github.com/gebher77/BuscaCep/assets/169497254/683e44d0-8ff4-41ca-b485-d08b7f6ab6bd)
+![image](https://github.com/gebher77/BuscaCep/assets/169497254/be161051-ab52-4cf4-835a-184b0fc059dc)
 ![image](https://github.com/gebher77/BuscaCep/assets/169497254/a383bbbb-4217-4329-bc36-8c6ab87c149a)
