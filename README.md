@@ -8,7 +8,8 @@ Bem-vindo ao **Busca Cep**, uma aplicação simples e eficiente para buscar CEPs
 - 📋 **Menu intuitivo**: Interface de usuário simples para facilitar a navegação e a realização de buscas.
 - 🗂️ **Histórico de buscas**: Geração automática de um arquivo `historico_buscas.json` contendo todas as buscas realizadas durante a sessão.
 
-----------------
+----------------------------------------------------------------
+
 
 Welcome to **Busca Cep**, a simple and efficient application for searching ZIP codes using an API. With an intuitive menu, the application allows you to perform searches easily and quickly, generating a `.json` file with the history of all searches performed at the end.
 
