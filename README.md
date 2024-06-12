@@ -3,7 +3,6 @@
 Bem-vindo ao **Busca Cep**, uma aplicação simples e eficiente para buscar CEPs utilizando uma API. Com um menu intuitivo, a aplicação permite realizar buscas de maneira fácil e rápida, gerando ao final um arquivo `.json` com o histórico de todas as buscas realizadas.
 
 ## ✨ Funcionalidades
-
 - 🔍 **Busca de CEP**: Utilize uma API externa para obter informações detalhadas sobre o CEP.
 - 📋 **Menu intuitivo**: Interface de usuário simples para facilitar a navegação e a realização de buscas.
 - 🗂️ **Histórico de buscas**: Geração automática de um arquivo `historico_buscas.json` contendo todas as buscas realizadas durante a sessão.
